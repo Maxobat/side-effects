@@ -1,0 +1,24 @@
+{
+  "cSpell.words": [
+    "ARROWLEFT",
+    "ARROWRIGHT",
+    "camelcase",
+    "exif",
+    "hgetall",
+    "hset",
+    "nanoids",
+    "nextjs",
+    "qaub",
+    "skippable",
+    "sonner",
+    "thephotoblog",
+    "trpc",
+    "unnest",
+    "WRHGZC",
+    "zadd",
+    "zrange"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
